@@ -72,7 +72,7 @@ body {
   .bar {
     width: 17px;
     height: 3px;
-    background-color: #aaa;
+    background-color: #333;
     margin: 3px 0;
     display: block;
   }
